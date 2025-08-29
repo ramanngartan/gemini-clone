@@ -38,5 +38,6 @@ The app allows users to interact with an LLM-powered chatbot in real time, with 
 Clone the repo and install dependencies:  
 ```bash
 git clone https://github.com/ramanngartan/gemini-clone.git
-cd gemini-clone
+cd gemini-clone-src
 npm install
+npm run dev
